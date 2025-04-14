@@ -8,7 +8,7 @@ My name is Paul Murdoch and I am a Full Stack Software developer, I specialize i
 
 *   🌍  I'm based in Durban, South Africa
 *   ✉️  You can contact me at [paulgmurdoch@gmail.com](mailto:paulgmurdoch@gmail.com)
-*   🚀  I'm currently working on [Macrocomm & Avecs Import/Export](http://avecsgroup.co.za)
+*   🚀  I'm currently working on [Avecs Import/Export](http://avecsgroup.co.za)
 *   🧠  I'm learning Python, Machine Learning and Game Development
 *   🤝  I'm open to collaborating on any of my public projects
 
